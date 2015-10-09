@@ -1,0 +1,5 @@
+.vs
+node_modules
+packages
+src_cs/bin
+src_cs/obj

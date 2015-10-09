@@ -1,0 +1,28 @@
+{
+  "name": "carbonfx.redis.interface",
+  "version": "0.1.0",
+  "description": "Control cTrader with any app that consumes JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "forex",
+    "redis",
+    "calgo",
+    "ctrader",
+    "fx"
+  ],
+  "author": "Arron Schaar",
+  "license": "MIT",
+  "devDependencies": {
+    "async": "^1.4.2",
+    "bignumber.js": "^2.0.8",
+    "bluebird": "^2.10.2",
+    "chai": "^3.3.0",
+    "hashids": "^1.0.2",
+    "mocha": "^2.3.3",
+    "moment": "^2.10.6",
+    "redis": "^2.1.0"
+  }
+}
